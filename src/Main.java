@@ -19,7 +19,5 @@ public class Main {
         String test = "Your implementation should return the string backwards.";
         arry = test.split("s..",3);
         System.out.println(arry[2]);
-
-
     }
 }
